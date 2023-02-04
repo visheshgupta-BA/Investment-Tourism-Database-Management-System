@@ -11,7 +11,8 @@ A&S Consulting group requires customers to enroll for their services to gain dee
 
 (1) Match-Making Investment (M-MI) service stores the interested customer's information. It then provides hindsight to subscribed customers regarding the investment opportunities in a specific country based on various financial factors like GDP, inflation rate, gross savings, etc. Besides the economic factors, M&S also considers other general and miscellaneous factors. The general factors can be categorized as population and income group. In contrast, the other factors include the form of government, geo-political situation, language barriers, etc. Besides, each country has its own rules and regulations.
 
-![Customer_Base] (https://github.com/visheshgupta-BA/Investment-Tourism-Database-Management-System/blob/main/Images/Customer_Base.png)
+![Customer_Base](https://github.com/visheshgupta-BA/Investment-Tourism-Database-Management-System/blob/main/Images/Customer_Base.png)
+
 
 (2) Match-Making Tourism (M-MT) is a cultural, economic, and social phenomenon involving people traveling to locations outside their usual environment for leisure, work, or other reasons. Likewise, the M-MT service stores the subscriber details. It then feeds them with country-specific details on the country's culture, history, places of interest, food, climatic conditions, and language with tie-ups with local guides to create a travel plan and itinerary as per their destination choice as a packaged fee.
 
