@@ -31,4 +31,4 @@ The foundation must be built to scale up for future demands and expand the data 
 
 The A&S Consultancy Group database, designed from scratch on MySQL, is an industry-ready relational database that can be implemented in the industries involved in investment and travel portfolios. This database can provide the firm and clients with analytical and visualization insights to make better decisions. A glimpse of the analysis is shown in the report using Python. The foundation is built to scale up for future demands and expand the data model's coverage for commercial usages, like country-wise tie-up with local operators for ticketing and booking for travel and stay, besides providing foreign currency exchange services.
 
-![text](https://user-images.githubusercontent.com/39597515/209453655-7032160b-1d9d-4f6d-8137-a6a893ef4295.png)
+![Life_Expectancy](https://github.com/visheshgupta-BA/Investment-Tourism-Database-Management-System/blob/main/Images/Life_Expectancy_Top_10_Country.png)
